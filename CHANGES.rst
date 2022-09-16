@@ -12,7 +12,8 @@
   this obsolete version of Postgres was removed, but it is no longer
   officially supported and the code will be removed in the future.
 - NOTE: Expect this to be the last major release to contain support
-  for obsolete versions of Python, including Python 2.7 and Python 3.6.
+  for obsolete versions of Python, including Python 2.7 and Python
+  3.6. This major release may not include binary wheels for these platforms.
 
 3.5.0a6 (2021-07-21)
 ====================
