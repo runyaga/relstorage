@@ -103,7 +103,7 @@ You can also skip the file and use a string with
 :func:`ZODB.config.databaseFromString`::
 
    conf = """
-   %%import relstorage
+   %import relstorage
    <zodb main>
      <relstorage>
       <mysql>
